@@ -206,8 +206,29 @@ span.banner-fix {
   position: absolute;
   width: 640px;
   top: 20px;
-
+  
 }
+
+nav ul{
+    padding:20px;
+    border-radius:10px;
+    position: relative;
+    display:inline-block;
+}
+
+.nav ul li:hover{
+      background:blue;
+      background:linear-gradiet(top, maroon, red);
+      background: -moz linear-gradiet(top, maroon, red);
+      background: -webkit-linaer-gradient(top, maroon, red);
+}
+.nav ul li:hover>{margin:0px; padding:0px;}
+.nav ul li:hover>{float:none; display:block;}
+.nav ul li:hover>{color: #666; min-width:150px}
+.nav ul li:hover>ul li a:hover{color:#fff;}
+
+.nav ul li{position:relative;}
+.nav ul li:{position:absolute; top:30px; left:0px}
 
 section#main_content {
   z-index: 2;
