@@ -222,7 +222,7 @@ ul#navmenu, ul.sub1, ul.sub2{
 }
 ul#navmenu li{
       border: 1px solid red;
-      width:125px;
+      width:100px;
       text-align:center;
       position:relative;
       float:left;
@@ -232,8 +232,8 @@ ul#navmenu li{
 
 ul#navmenu a{
       text-decoration:none;
-      display:block;
-      width:125px;
+      display:none;
+      width:100px;
       height:25px;
       line-height:25px;
       background-color:blue;
@@ -277,7 +277,7 @@ ul#navmenu ul.sub2 {
         display:none;
         position:absolute;
         top:0px;
-        left:126px;
+        left:100px;
   
 }
 
