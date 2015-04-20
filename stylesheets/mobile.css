@@ -282,12 +282,12 @@ ul#navmenu ul.sub2 {
 }
 
 ul#navmenu li:hover .sub1{
-      display:block;
+      display:none;
   
 }
 
 ul#navmenu sub1 li:hover .sub2{
-        display:block;
+        display:none;
   
 }
 
