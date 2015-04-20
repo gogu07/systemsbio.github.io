@@ -222,7 +222,7 @@ ul#navmenu, ul.sub1, ul.sub2{
 }
 ul#navmenu li{
       border: 1px solid red;
-      width:100px;
+      width:75px;
       text-align:center;
       position:relative;
       float:left;
@@ -233,11 +233,11 @@ ul#navmenu li{
 ul#navmenu a{
       text-decoration:none;
       display:none;
-      width:100px;
+      width:75px;
       height:25px;
       line-height:25px;
-      background-color:blue;
-      border:1px solid blue;
+      background-color:#cd596b;
+      border:1px solid #cd596b;
       border-radius:5px;
 }
 
@@ -289,14 +289,6 @@ ul#navmenu li:hover .sub1{
 ul#navmenu sub1 li:hover .sub2{
         display:block;
   
-}
-
-.darrow{
-  
-    font-size:10pt;
-    position:absolute;
-    top:5px;
-    right:4px;
 }
 
 .nav ul li:hover{
