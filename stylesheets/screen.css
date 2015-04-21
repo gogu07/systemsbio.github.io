@@ -125,6 +125,7 @@ a#BITS-PILANI{
   width: 138px;
   height: 138px;
   display: block;
+  background: transparent url(http://universe.bits-pilani.ac.in/Goa/) 0 0 no-repeat;
   text-indent: -9000px;
   z-index: 3;
 }
