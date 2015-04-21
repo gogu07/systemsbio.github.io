@@ -118,7 +118,7 @@ div.shell {
   margin: 0 auto;
 }
 
-a#forkme_banner {
+a#BITS-PILANI{
   position: absolute;
   top: 0;
   left: 0;
@@ -130,7 +130,7 @@ a#forkme_banner {
   z-index: 3;
 }
 
-a#forkme_banner:hover {
+a#BITS-PILANI {
   background-position: 0 -138px;
 }
 
